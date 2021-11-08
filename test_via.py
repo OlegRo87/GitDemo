@@ -1,7 +1,7 @@
 import requests
 from faker import Faker
 from randomuser import RandomUser
-
+import time 
 
 user = RandomUser()
 fake = Faker()
